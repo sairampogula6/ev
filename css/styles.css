@@ -1,0 +1,426 @@
+
+img{
+    border-radius:100%;
+}
+
+    
+
+img{
+    padding: 20px;
+}
+
+p{
+    margin-left:60px;
+    padding-left:55%;
+    padding-bottom:120px;
+    margin-bottom: 150px;
+}
+
+    
+
+    
+
+.h1{
+    align-items: center;
+    margin: 0;
+    margin-left: 150px;
+    
+}
+.i{
+    margin-left: 80px;
+    background-color: #222;
+    
+}
+.j{
+    margin-left: 140px;
+    background-color: #222
+}
+.f{
+    margin-left: 80px;
+    background-color: #222
+}
+.k{
+    margin-left: 80px;
+    background-color: #222
+}
+
+
+h2{
+    font-size: 40px;
+    font-style: oblique;
+    color: palevioletred;
+    margin-left:38% ;
+}
+hr{
+    background-color: azure;
+    width: 8%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px ;
+    border-color: lightpink; 
+    margin-left: 50%;
+}
+
+    
+
+h3{
+    margin-bottom:40px;
+    font-size: 20px;
+}
+
+.cls{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-size:30px;
+    text-align: center;
+
+   
+    
+}
+
+
+ul{
+    margin-left:40px;
+    padding-left:40%;
+    padding-bottom:120px;
+    margin-bottom: 150px;
+} 
+.S{
+    font-style: inherit;
+    padding-left:45%;
+    margin: 100px;
+    padding-top: 55px;
+    font-size: larger;
+    
+    
+}
+.img1{
+    cursor: pointer;
+
+}
+.img2{
+    cursor: pointer;
+    margin-left: 350px;
+    
+    
+}
+
+a{
+    color: aliceblue;
+}
+h5{
+    margin-bottom:80px ;
+    color:grey;
+    font-size: 15px;
+}
+/*wedding*/
+.car{
+    background-color: bisque;
+}
+.img3{
+    border-radius: 20%;
+    margin-left: 60px;
+    
+    
+}
+.img4{
+    border-radius: 20%;
+    margin-left: 60px;
+}
+.top-container{
+    background-color:gold;
+    height: 310px;
+   
+    width: 1500px;
+
+}
+
+.middle-container{
+    background-color:rgb(114, 74, 74);
+    height: 310px;
+    width: 1500px;
+
+}
+
+.bottom-container{
+    background-color:lightpink;
+    height: 310px;
+    width: 1500px;
+    
+}
+.last-container{
+    background-color: antiquewhite;
+    height: 310px;
+    width: 1500px;
+}
+table{
+    margin-left: 30%;
+    margin-right: 20%;
+}
+h6{
+    padding: 20px;
+    padding-right: 50px;
+    font-size: 30px;
+}
+.img5{
+    border-radius: 20%;
+    margin-left: 60px;
+}
+.img6{
+    border-radius: 20%;
+    margin-left: 60px;
+}
+.container{
+    background-color:lightgoldenrodyellow;
+    height: 210px;
+    width: 1500px;
+}
+.cls{
+    color:red;
+    background-color: lightgray;
+    border-radius:5%;
+    padding: 3px;
+    padding-right: 3px;
+    cursor: pointer;
+    border-color: lightgrey;
+    text-underline-offset:0;
+    margin-top: 60px;
+    margin-left: 45%;
+    font-style: oblique;
+    font-size: 15px;
+    
+   
+}
+/*event.html*/
+.tb1{
+    margin: 0;
+    margin-left: 0;
+
+}
+.tb2{
+    margin:0;
+    margin-left:0;
+}
+img{
+    border-radius: 100%;
+    margin-right: 60px;
+
+}
+.tb3{
+    margin: 0;
+    margin-left: 0;
+
+}
+.tb4{
+    margin: 0;
+    margin-left: 0;
+}
+.tbh1{
+    margin:0;
+}
+.body{
+    background-color:white;
+    margin: 0;
+}
+.tbh2{
+    margin: 0;
+    margin-left: 10PX;
+}
+.tbh3{
+    margin: 0;
+}
+.tbh4{
+    margin: 0;
+}
+.tbh{
+    margin: 0;
+}
+/*close event*/
+
+/*index*/
+.th{
+    margin:0;
+}
+.tr{
+    margin: 0;
+    margin: 15px;
+}
+.b{
+    border: white;
+    background:none;
+    margin: 0;
+    
+    margin-bottom: 40px;
+    cursor: pointer;
+    font-size: 15px;
+     
+
+}
+.c{
+    border: white;
+    background:none;
+    margin-bottom: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left:60px;
+    
+}
+.img2{
+    margin-left:1000px;
+    margin-top: 5px;
+    
+}
+h1{
+    font-style: italic;
+    padding-left:30%;
+    margin: 30px;
+    padding-top: 55px;
+    letter-spacing: 2px;
+    font-size: 60px;
+}
+.button{
+    color: black;
+    background-color: orange;
+    border-radius:10%;
+    padding-left: 3px;
+    padding-right: 3px;
+    cursor: pointer;
+    border-color: orange;
+    text-underline-offset:0;
+    margin-left: 90%;
+}
+/*login*/
+.sai{
+    font-family: "open sans";
+    color: aliceblue;
+    line-height: 1.6pxS;
+}
+
+
+section{
+    position:relative;
+    height: 130vh;
+    width: 100%;
+    
+    
+}
+.form-container{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,50%);
+    background: linear-gradient(rgba(0,0,0,0.3)),rgba(0,0,0,0.3);
+    width: 380px;
+    padding-bottom: 0 10px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 60px #000;
+    margin-bottom: 10px;
+    
+}
+.control input{
+
+    width: 100%;
+    display: block;
+    padding: 10px;
+    color: #222;
+    border:none;
+    outline:none ;
+    margin: 1em 0;
+}
+.control input[type="submit"]{
+    background:red;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    opacity:.7;
+    transition: opacity .3 ease;
+
+}
+.control input[type="submit"]:hover{
+    opacity: 1;
+}
+.link a{
+    text-decoration: none;
+    color: #fff;
+    opacity: .6;
+    transition:opacity .3s ease;
+   
+    
+
+}
+.link a:hover{
+    opacity: 1;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h{
+    font-size: 50px;
+    margin-right: 50px;
+    padding-top: 20%;
+    margin-left: 20px
+    
+}
+   
+.ram{
+    font-size: 20px;
+    margin-left: 120px;
+    font-style: inherit;
+}
+/*book*/
+.my input{
+
+    width: 100%;
+    display: block;
+    padding: 10px;
+    color: #222;
+    border:none;
+    outline:none ;
+    margin: 1em 0;
+}
+.my input[type="submit"]{
+    background:red;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    opacity:.7;
+    transition: opacity .3 ease;
+
+}
+.my input[type="submit"]:hover{
+    opacity: 1;}
+    .lik{
+            font-family: "open sans";
+            color:black;
+            line-height: 1.6pxS;
+    }
+    .book-container{
+    
+            position:absolute;
+            top: 0%;
+            left:50%;
+            bottom: 35%;
+            transform:translate(-50%,50%);
+            background: linear-gradient(rgba(0,0,0,0.3)),rgba(0,0,0,0.3);
+            width: 380px;
+            padding-bottom:  0 20px;
+            border-radius: 10px;
+            box-shadow: 7px 7px 60px #000;
+            margin-bottom:30px;
+            padding: 20px;
+            
+        }
+    .by{
+        margin-left: 75%;
+        background-color:black;
+        color: beige;
+    }
+    .by1{
+        margin-left:100px;
+        background-color: #222;
+    }
